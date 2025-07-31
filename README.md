@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=morphoix&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🤔 "There are only two industries that call their customers ‘users’: illegal drugs and software" — Edward Tufte
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=morphoix&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
